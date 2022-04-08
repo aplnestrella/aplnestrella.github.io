@@ -174,7 +174,7 @@ const App = () => {
                 <div className={classes.container}>
                     <Container className={classes.intro}>
                         <Reveal effect="animate__tada">
-                        <img className={classes.icon} src='/assets/icon.png' alt="icon" />
+                        <img className={classes.icon} src='/assets/Icon.png' alt="icon" />
                         </Reveal>
                         <br/><br/><br/>
 
