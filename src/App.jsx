@@ -330,7 +330,7 @@ const App = () => {
                                     </Typography>
 
                                     <Reveal effect="animate__fadeIn">
-                                        <img style={{paddingTop: "20px"}} src='/assets/Summarizer PowerPoint.gif' alt="summarizer PPT" />
+                                        <img style={{paddingTop: "20px", maxWidth:"100%", maxHeight:"100%"}}  src='/assets/Summarizer PowerPoint.gif' alt="summarizer PPT" />
                                     </Reveal>
                                     
 
